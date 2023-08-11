@@ -5,6 +5,10 @@ Takes GRE Score, TOEFL Score, University Rating, SOP, LOR and Research Papers as
 
 and predicts the percentage of Admission into Master
 
+## DEMO
+[![Try In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OKpIrx-xwfyifrvyBSmAibreZVhV6j3n?usp=sharing)
+
+
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/fQCMXh0/screenshot.png)
